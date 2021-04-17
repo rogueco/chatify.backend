@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jPj5keAygZSPlQb5VK0m+hos5vdDLm+VHTXs1UGMlpAnaVEmUVKuXiIdNXDrBdEG6ogPUWt9Cf6X0Ot2GgCYeg==",
+  "dgSpecHash": "X9jcm+7DgnZVgXTL2VX3Z3vnAtiGwoeeosyIPGVUB6JccWNlSoruQSbzak3B/Y8sPRBlU2K8lPn4GknkLEmAVQ==",
   "success": true,
   "projectFilePath": "/home/tom-fletcher/Git/Projects/DotnetTalkApp/Chatify.Backend/API/API.csproj",
   "expectedPackageFiles": [
